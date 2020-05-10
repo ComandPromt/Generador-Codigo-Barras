@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="GeneradorCodBarras/src"/>
+	<classpathentry kind="lib" path="GeneradorCodBarras/dist/GeneradorCodBarras.jar"/>
+	<classpathentry kind="lib" path="GeneradorCodBarras/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="GeneradorCodBarras/dist/lib/edisoncorSX.jar"/>
+	<classpathentry kind="lib" path="GeneradorCodBarras/dist/lib/jbarcodebean-1.2.0.jar"/>
+	<classpathentry kind="lib" path="GeneradorCodBarras/dist/lib/JPlaceHolder.jar"/>
+	<classpathentry kind="output" path="GeneradorCodBarras/build/classes"/>
+</classpath>
